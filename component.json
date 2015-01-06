@@ -1,8 +1,8 @@
 {
     "name": "object-create-shim",
-    "repo": "gamtiq/object-create-shim",
+    "repository": "gamtiq/object-create-shim",
     "description": "Simple shim for ECMAScript 5 Object.create",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "keywords": [
         "object",
         "create",

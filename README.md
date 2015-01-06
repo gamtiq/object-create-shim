@@ -1,10 +1,10 @@
 # object-create-shim
 
-Simple shim for ECMAScript 5 Object.create
+Simple shim for ECMAScript 5 `Object.create`
 
 ## Installation
 
-Install component:
+Install [Component](https://github.com/componentjs/component):
 
     npm install -g component
 
